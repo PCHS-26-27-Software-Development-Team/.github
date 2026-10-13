@@ -1,6 +1,6 @@
 # TSA Software Development 26-27 PCHS
 
-This is the PCHS 2026-2027 Software Development Team Organization, home of the repository for PCHS's submission for the 2026-2027 Florida TSA Conference.
+This is the PCHS 2026-2027 Software Development Team Organization, home of the repository for PCHS's Software Development submission for the 2026-2027 Florida TSA Conference.
 
 ## Members
 
@@ -11,7 +11,7 @@ This is the PCHS 2026-2027 Software Development Team Organization, home of the r
 - [x] Create Github Organization
 - [x] Create Repo
 - [ ] Decide on the app
-- [ ] Decide on the language
+- [ ] Decide on the coding language
 - [ ] Start creating the app
 - [ ] Finish app
 - [x] Create Portfolio
