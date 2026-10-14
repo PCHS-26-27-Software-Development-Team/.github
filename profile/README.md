@@ -12,6 +12,7 @@ This is the PCHS 2026-2027 Software Development Team Organization, home of the r
 - [x] Create Repo
 - [ ] Decide on the app
 - [ ] Decide on the coding language
+- [ ] Decide on the Operating System
 - [ ] Start creating the app
 - [ ] Finish app
 - [x] Create Portfolio
