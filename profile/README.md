@@ -11,7 +11,7 @@ This is the PCHS 2026-2027 Software Development Team Organization, home of the r
 - [x] Create Github Organization
 - [x] Create Repo
 - [ ] Decide on the app
-- [ ] Decide on the coding language
+- [x] Decide on the coding language (Coding Language: `Javascript`)
 - [ ] Decide on the Operating System
 - [ ] Start creating the app
 - [ ] Finish app
